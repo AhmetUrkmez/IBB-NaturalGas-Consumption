@@ -1,4 +1,4 @@
-## IBB Natural Gas Consumption
+## IMM Natural Gas Consumption
 
 _A visualization for the monthly natural gas consumption of Istanbul in 2022._
 
